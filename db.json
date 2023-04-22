@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Satish",
+      "email": "Satish@mail.com",
+      "address": "South street"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "email": "john@mail.com",
+      "address": "North street"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@mail.com",
+      "address": "East street"
+    },
+    {
+      "id": 4,
+      "name": "Mani",
+      "email": "mani@mail.com",
+      "address": "West street"
+    },
+    {
+      "name": "sonali",
+      "email": "sonali@gmail.com",
+      "address": "surat",
+      "id": 5
+    },
+    {
+      "name": "abc1",
+      "email": "abc@gmail.com",
+      "adderss": "",
+      "address": "South street",
+      "id": 6
+    }
+  ]
+}
